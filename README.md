@@ -1,12 +1,12 @@
-<h3 align="center">Hello there, I'm Adiyoga 👋</h3>
+<h3 align="center">Hi, Adiyoga 👋</h3>
 <h5 align="center">
 
-  <code><a href="https://www.instagram.com/adiyoga27/" title="Instagram Profile"><img width="22" src="https://img.shields.io/badge/<adiyoga27>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> </a></code>
-  <code><a href="https://www.facebook.com/adiyoga27" title="Facebook Profile"><img width="22" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a></code>
+  <code><a href="https://www.instagram.com/adiyoga27/" title="Instagram Profile"><img src="https://img.shields.io/badge/<adiyoga27>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> </a></code>
+  <code><a href="https://www.facebook.com/adiyoga27" title="Facebook Profile"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a></code>
 </h5>
 <br>
 <p align="center">
-I am the last child of three siblings. I was born in Bebandem Karangasem, September 27th 1996. Currently, I live in Jalan Nenas No 16 Bungaya Kangin, Bebandem, Karangasem, Bali. I graduated in diploma at Bali State of Polytechnic, My expertise is Web Developer, Mobile Developer, Analysis System and IT Support.
+I'm the last child of three siblings. I was born in Bebandem Karangasem, September 27th 1996. I graduated in diploma at Bali State of Polytechnic, My expertise is Web Developer, Mobile Developer, Analysis System and IT Support.
 </p>
 
 ### Technologies & Tools
