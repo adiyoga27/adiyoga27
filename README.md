@@ -1,11 +1,13 @@
-### Hi there 👋
-### Technologies & Tools
-![](https://img.shields.io/badge/style-bootstrap-blue?style=plastic&logo=bootstrap)
-![](https://img.shields.io/badge/js-javascript-blue?style=plastic&logo=javascript)
-![](https://img.shields.io/badge/database-mysql-blue?style=plastic&logo=mysql)
-![](https://img.shields.io/badge/code-php-blue?style=plastic&logo=php)
-![](https://img.shields.io/badge/framework-codeigniter-blue?style=plastic&logo=codeigniter)
+### Hi there 👋, my name is Ida Bagus Ketut Adiyoga, You can call me Adiyoga. I am the last child of three siblings. I was born in Bebandem Karangasem, September 27th 1996. Currently, I live in Jalan Nenas No 16 Bungaya Kangin, Bebandem, Karangasem, Bali. I graduated in diploma at Bali State of Polytechnic, My expertise is Web Developer, Mobile Developer, Analysis System and IT Support.
 
+### Technologies & Tools
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <!--
 **adiyoga27/adiyoga27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
