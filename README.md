@@ -1,4 +1,11 @@
 ### Hi there 👋
+### Technologies & Tools
+![](https://img.shields.io/badge/style-bootstrap-blue?style=plastic&logo=bootstrap)
+![](https://img.shields.io/badge/js-javascript-blue?style=plastic&logo=javascript)
+![](https://img.shields.io/badge/database-mysql-blue?style=plastic&logo=mysql)
+![](https://img.shields.io/badge/code-php-blue?style=plastic&logo=php)
+![](https://img.shields.io/badge/framework-codeigniter-blue?style=plastic&logo=codeigniter)
+
 
 <!--
 **adiyoga27/adiyoga27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
