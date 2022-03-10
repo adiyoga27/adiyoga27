@@ -1,7 +1,8 @@
 <h3 align="center">Hello there, I'm Adiyoga 👋</h3>
 <h5 align="center">
-  <code><a href="https://www.facebook.com/adiyoga27" title="Facebook Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> Facebook</a></code>
-  <code><a href="https://www.instagram.com/adiyoga27/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+
+  <code><a href="https://www.instagram.com/adiyoga27/" title="Instagram Profile"><img width="22" src="https://img.shields.io/badge/<adiyoga27>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> </a></code>
+  <code><a href="https://www.facebook.com/adiyoga27" title="Facebook Profile"><img width="22" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a></code>
 </h5>
 <br>
 <p align="center">
@@ -20,9 +21,9 @@ I am the last child of three siblings. I was born in Bebandem Karangasem, Septem
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adiyoga27&show_icons=true&hide_border=true)
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
+Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/adiyoga27)
 
 ---
 <!--
