@@ -1,8 +1,8 @@
 <h3 align="center">Hi, Adiyoga 👋</h3>
 <h5 align="center">
 
-  <code><a href="https://www.instagram.com/adiyoga27/" title="Instagram Profile"><img src="https://img.shields.io/badge/<adiyoga27>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> </a></code>
-  <code><a href="https://www.facebook.com/adiyoga27" title="Facebook Profile"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a></code>
+  <a href="https://www.instagram.com/adiyoga27/" title="Instagram Profile"><img src="https://img.shields.io/badge/<adiyoga27>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> </a>
+  <a href="https://www.facebook.com/adiyoga27" title="Facebook Profile"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 </h5>
 <br>
 <p align="center">
