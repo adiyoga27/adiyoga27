@@ -25,7 +25,7 @@ I'm the last child of three siblings. I was born in Bebandem Karangasem, Septemb
 
 <!-- Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/adiyoga27) -->
 
----
+<!-- --- -->
 <!--
 **adiyoga27/adiyoga27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
