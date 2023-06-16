@@ -21,9 +21,9 @@ I'm the last child of three siblings. I was born in Bebandem Karangasem, Septemb
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adiyoga27&show_icons=true&hide_border=true)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adiyoga27&show_icons=true&hide_border=true) -->
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/adiyoga27)
+<!-- Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/adiyoga27) -->
 
 ---
 <!--
